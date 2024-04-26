@@ -241,3 +241,20 @@ body {
   font-family: var(--roboto);
   font-size: 12px;
 }
+
+main {
+  padding: 30px;
+}
+
+.main_1_1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main1_2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main_2_1 {
+}
